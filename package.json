@@ -1,6 +1,6 @@
 {
     "name": "refiner-cli",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Advanced CLI tool to clean and optimize JavaScript/Node.js projects",
     "main": "src/index.js",
     "type": "module",

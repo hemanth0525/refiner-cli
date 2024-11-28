@@ -10,7 +10,7 @@ const program = new Command();
 program
     .name('refiner')
     .description('Clean unused files and dependencies from JavaScript projects')
-    .version('1.0.2');
+    .version('1.0.3');
 
 program
     .command('analyze')

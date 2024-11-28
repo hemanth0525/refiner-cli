@@ -1,0 +1,25 @@
+{
+    "name": "refiner-cli",
+    "version": "1.0.1",
+    "description": "Advanced CLI tool to clean and optimize JavaScript/Node.js projects",
+    "type": "module",
+    "bin": {
+        "refiner-cli": "./src/index.js"
+    },
+    "dependencies": {
+        "chalk": "^5.3.0",
+        "commander": "^11.1.0",
+        "glob": "^10.3.10",
+        "ora": "^7.0.1",
+        "acorn": "^8.11.2",
+        "acorn-walk": "^8.3.0"
+    },
+    "keywords": [
+        "CLI",
+        "JavaScript",
+        "Node.js",
+        "optimization",
+        "cleaning",
+        "tool"
+    ]
+}
